@@ -1,4 +1,4 @@
-# hse-blockchain-hw3
+# hse-blockchain-lab
 
 1. 
 
